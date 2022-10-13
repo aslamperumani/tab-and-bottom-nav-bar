@@ -1,16 +1,5 @@
 # tabandbottomnavbar
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20221013_213819](https://user-images.githubusercontent.com/31065758/195649633-b0afa33e-104e-45c5-9a4e-7eef21aeaaf4.png)
+![Screenshot_20221013_213831](https://user-images.githubusercontent.com/31065758/195649642-ab4e9aad-a9f7-4419-843f-5eb1477d4676.png)
+![Screenshot_20221013_213842](https://user-images.githubusercontent.com/31065758/195649647-3387fb64-61c9-4b8e-8fdc-695a79d0cb8c.png)
+![Screenshot_20221013_213849](https://user-images.githubusercontent.com/31065758/195649650-b3924029-3c7d-421c-b410-e2bb374e22fc.png)
